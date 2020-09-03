@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://twitter.com/hardikpthv
 - 😄 Pronouns: He/Him
 
-[![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=hardikpthv&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=hardikpthv&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardikpthv&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/hardikpthv.svg?style=social&label=Follow%20hardikpthv)](https://twitter.com/hardikpthv)
 
