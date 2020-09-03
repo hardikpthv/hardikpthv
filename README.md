@@ -10,8 +10,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://twitter.com/hardikpthv
 - 😄 Pronouns: He/Him
 
+[![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=hardikpthv&count_private=true&show_icons=true)](https://github.com/hardikpthv/github-readme-stats)
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/hardikpthv.svg?style=social&label=Follow%20hardikpthv)](https://twitter.com/hardikpthv)
+
 
 <!-- 
   - 🤔 I’m looking for help with ... 
